@@ -1,2 +1,3 @@
-# Bot de PyCord
-Plantilla para un bot de discord.py con py-cord
+# PyCord Bot
+
+**Plantilla para un bot con la librería de PyCord.**
